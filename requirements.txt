@@ -1,0 +1,6 @@
+gradio
+joblib
+scikit-learn
+numpy
+openai
+python-dotenv
